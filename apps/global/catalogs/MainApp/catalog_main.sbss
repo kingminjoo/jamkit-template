@@ -1,5 +1,0 @@
-import themes.sbss
-
-/catalog {
-    fits-to-page: yes;
-}
